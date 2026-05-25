@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fernandomendez.github.io/sitemap.xml
+Sitemap: https://fernandomendezbenitez.github.io/sitemap.xml
