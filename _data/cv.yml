@@ -4,8 +4,7 @@ cv:
   email: fernando.mendez.benitez@gmail.com
   location: City of London, GB
   image: ""
-  summary: Mathematical Finance specialist with a research-drive approach, combining rigorous statistical modelling, market and credit risk insight, and production-grade implementation to extract meaning from complex financial data.
-
+  summary: Quantitative Finance researcher and practitioner working across statistical modelling, market and credit risk, and production-grade implementation.
   social_networks:
     - network: GitHub
       username: fernandomendezbenitez
@@ -15,71 +14,129 @@ cv:
   sections:
     Education:
       - institution: CQF Institute & Fitch Learning
-        location: Londong, England
+        location: London, GB
         area: Certificate in Quantitative Finance
         studyType: Certificate
         start_date: 2025
         end_date: 2026
         score: ""
         courses:
-          - "Applied Stochastic Calculus"
-          - "Machine Learning"
-          - "Econometrics & Optimisation"
+          - "Applied Stochastic Calculus - 93% (First Class Merit)"
+          - "Machine Learning - 86% (First Class Merit)"
+          - "Econometrics & Optimisation - 84% (First Class Merit)"
 
       - institution: University of Warwick
-        location: Coventry, England
+        location: Coventry, GB
         area: Systems Engineering
         studyType: BEng (Hons)
         start_date: 2019
         end_date: 2022
         score: ""
         courses:
-          - "Systems Modelling & Computation"
-          - "Engineering Mathematics"
-          - "Signal Processing"
+          - "Systems Modelling & Computation - 85% (First Class Merit)"
+          - "Engineering Mathematics - 87% (First Class Merit)"
+          - "Signal Processing - 77% (First Class Merit)"
         highlights:
           - Dissertation in Experimental Fluid Dynamics - Visualising the Effects of Uneven Structures on Highly Rotational Vortex Cores
 
       - institution: Stanford University
-        location: Stanford, California
+        location: California, USA
         area: International Honours Program
         studyType: Honours Diploma
         start_date: 2018
-        end_date: 2018
+        end_date: ""
         highlights:
           - Highest Distinction Award in Mathematics
           - Highest Distinction Award in English
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - institution: Edron Academy British International School
+        location: Ciudad de Mexico, MX
+        studyType: International Baccalauraete
+        start_date: 2017
+        end_date: 2019
         highlights:
-          - Relativity
-          - Description 2.
+          - "Higher Level Mathematics - 6/7"
+          - "Higher Level Physics - 6/7"
+          - "Higher Level Economics - 6/7"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+
+
+    Experience:
+      - company: Quantitative Research, BDO UK
+        position: Associate
+        location: London, GB
+        start_date: 2024
+        end_date: "Present"
+        summary: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - Researched, develped, and implemented quantitative models for derivatives valuation across fixed income, credit, commodities, and exotic structures (CLNs, TARFs, path-dependent payoffs) using Numerix, QuantLib, Python, and C++.
+          - Identified unaccounted illiquidity risk, providing research report on significance, impact, and possible quantification methods, leveraging option-theoretic models towards a DLOM methodology, ultimately gaining new business.
+          - Drove independent model research, demonstrating inaccuracies in client methodology leading to authorship and distribution of internal technical research reports, and larger client mandates.
+          - Designed and implemented a fully automated derivatives valuation and risk engine, extended to end-to-end automated report production, materially reducing research-to-output cycle time.
+          - Delivered training on stochastic calculus, option theory, numerical methods, and their applications.
+          - Performed in-depth technical review and challenge of third-party market risk models, ECL models, and hedging strategies across vanilla and exotic instruments.
+
+      - company: Quantitative Research, BDO UK
+        position: Analyst
+        location: London, GB
+        start_date: 2023
+        end_date: 2024
+        highlights:
+          - Built and validated pricing models for vanilla and exotic derivatives; developed Bloomberg and Refinitiv data pipelines underpinning the firm's automated valuation infrastructure.
+          - Contributed to quantitative model research and challenger methodology development.
+
+      - company: Quantitative Research, Cobb Harbour Investments
+        position: Research Assistant
+        location: London, GB
+        start_date: 2022
+        end_date: ""
+        highlights:
+          - Investigated corporate bond ETF market microstructure; contributed to ML-based quantitative tool development.
+
+      - company: Mechatronics Department, Monterrey Technological Institute
+        position: Research Intern
+        location: Ciudad de Mexico, MX
+        start_date: 2019
+        end_date: ""
+        highlights:
+          - Contributed to the engineering and development of novel paraplegic support products.
+
+      - company: Strategy, General Motors
+        position: Intern
+        location: Ciudad de Mexico, MX
+        start_date: 2018
+        end_date: ""
+        highlights:
+          - Contributed to the design and evaluation of quantitative market analytics.
+
+
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Nuestro Futuro, A.C.
+        position: Founding Member
+        location: Ciudad de Mexico, MX
+        start_date: 2020
+        end_date: ""
+        summary: ""
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Founded the Nuestro Futuro civil association towards environmental rights."
+
+      - company: Santa Fe Community Centre
+        position: Mathematics Educator
+        location: Ciudad de Mexico, MX
+        start_date: 2017
+        end_date: 2019
+        highlights:
+          - "Taught secondary-level mathematics to a class of approx. 20 students."
+
+      - company: Santa Fe Community Centre
+        position: Computer Science Tutor
+        location: Ciudad de Mexico, MX
+        start_date: 2017
+        end_date: 2019
+        highlights:
+          - "Provided secondary-level tutoring in Computer Science on an individual basis."
+
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
@@ -105,11 +162,6 @@ cv:
 
       - name: French
         summary: "Intermediate"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Certificates:
       - name: Machine Learning
