@@ -6,7 +6,7 @@ subtitle: CQF | Systems Engineering
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: download.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>City of London, Great Britain<p>
@@ -24,6 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Presently an Associate in Quantitative Research at BDO UK, where I work across model development, independent validation, and the translation of quantitative research into tangible business solutions. My research sits at the intersection of stochastic analysis and machine learning, with current interests including the characterisation of financial markets as Markov state spaces, the role of option Greeks as latent space variables, and the use of reinforcement learning as an approximation to optimal stochastic control. This agenda draws on Malliavin calculus, stochastic flow theory, and recent developments in neural stochastic differential equations.  
 
+Presently an Associate in Quantitative Research at BDO UK, where I work across model development, independent validation, and the translation of quantitative research into tangible business solutions. 
 
+My current research sits at the intersection of stochastic analysis and machine learning, with present interests including the characterisation of financial markets as Markov state spaces, the role of option Greeks as latent state variables, and the use of reinforcement learning as an approximation to optimal stochastic control. This agenda draws on Malliavin calculus, stochastic flow theory, and recent developments in neural stochastic differential equations. 
+
+In parallel, I am collaborating on applications of stochastic dynamical systems and reinforcement learning to computational neuroscience, with a focus on the bifurcation structure underlying pain chronification towards more informed prevention and treatment.
