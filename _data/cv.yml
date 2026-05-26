@@ -138,7 +138,6 @@ cv:
         highlights:
           - "Provided secondary-level tutoring in Computer Science on an individual basis."
 
-
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
         authors:
@@ -178,10 +177,3 @@ cv:
         date: 2024
         issuer: Clos Capital
         icon: fa-solid fa-location-dot
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
