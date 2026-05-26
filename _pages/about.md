@@ -6,7 +6,7 @@ subtitle: Stochastics & Computation
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic_2.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>City of London, Great Britain<p>
