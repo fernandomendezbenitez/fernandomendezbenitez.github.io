@@ -13,10 +13,10 @@ cv:
 
   sections:
     Education:
-      - institution: CQF Institute & Fitch Learning
+      - institution:
         location: London, GB
-        area: Certificate in Quantitative Finance
-        studyType: Certificate
+        area: CQF Institute & Fitch Learning
+        studyType: Certificate in Quantitative Finance
         start_date: 2025
         end_date: 2026
         score: ""
@@ -25,10 +25,10 @@ cv:
           - "Machine Learning - 86% (First Class Merit)"
           - "Econometrics & Optimisation - 84% (First Class Merit)"
 
-      - institution: University of Warwick
+      - institution:
         location: Coventry, GB
-        area: Systems Engineering
-        studyType: BEng (Hons)
+        area: University of Warwick
+        studyType: BEng (Hons) Systems Engineering
         start_date: 2019
         end_date: 2022
         score: ""
@@ -39,19 +39,19 @@ cv:
         highlights:
           - Dissertation in Experimental Fluid Dynamics - Visualising the Effects of Uneven Structures on Highly Rotational Vortex Cores
 
-      - institution: Stanford University
+      - institution:
         location: California, USA
-        area: International Honours Program
-        studyType: Honours Diploma
+        area: Stanford University
+        studyType: International Honours Program
         start_date: 2018
-        end_date: ""
         highlights:
           - Highest Distinction Award in Mathematics
           - Highest Distinction Award in English
 
-      - institution: Edron Academy British International School
+      - institution:
         location: Ciudad de Mexico, MX
-        studyType: International Baccalauraete
+        studyType: International Baccalaureate
+        area: Edron Academy British International School
         start_date: 2017
         end_date: 2019
         highlights:
@@ -89,7 +89,6 @@ cv:
         position: Research Assistant
         location: London, GB
         start_date: 2022
-        end_date: ""
         highlights:
           - Investigated corporate bond ETF market microstructure; contributed to ML-based quantitative tool development.
 
@@ -97,7 +96,6 @@ cv:
         position: Research Intern
         location: Ciudad de Mexico, MX
         start_date: 2019
-        end_date: ""
         highlights:
           - Contributed to the engineering and development of novel paraplegic support products.
 
@@ -105,7 +103,6 @@ cv:
         position: Intern
         location: Ciudad de Mexico, MX
         start_date: 2018
-        end_date: ""
         highlights:
           - Contributed to the design and evaluation of quantitative market analytics.
 
@@ -148,10 +145,18 @@ cv:
         summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming Languages
+        level: Advanced
+        icon:
+        keywords: "Python, MATLAB, VBA"
+
+      - name: Programming Languages
+        level: Intermediate
+        keywords: "C++, C, ARM"
+
+      - name: Technologies
+        level: Advanced
+        keywords: "Bloomberg, QuantLib, Refnitiv, CapitalIQ, Numerix"
 
     Languages:
       - name: Spanish
@@ -163,21 +168,12 @@ cv:
       - name: French
         summary: "Intermediate"
 
+
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Equity Options, Interest Rate Derivatives & FX Derivatives
+        date: 2024
+        issuer: Clos Capital
         icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
 
     Projects:
       - name: Quantum Computing
