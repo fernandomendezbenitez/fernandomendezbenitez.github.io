@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: CQF | Systems Engineering
+subtitle: Stochastics & Computation
 
 profile:
   align: right
-  image: download.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>City of London, Great Britain<p>
