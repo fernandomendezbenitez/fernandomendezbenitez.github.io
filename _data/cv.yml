@@ -44,6 +44,7 @@ cv:
         area: Stanford University
         studyType: International Honours Program
         start_date: 2018
+        end_date: 2018
         highlights:
           - Highest Distinction Award in Mathematics
           - Highest Distinction Award in English
@@ -89,6 +90,7 @@ cv:
         position: Research Assistant
         location: London, GB
         start_date: 2022
+        end_date: 2022
         highlights:
           - Investigated corporate bond ETF market microstructure; contributed to ML-based quantitative tool development.
 
@@ -96,6 +98,7 @@ cv:
         position: Research Intern
         location: Ciudad de Mexico, MX
         start_date: 2019
+        end_date: 2019
         highlights:
           - Contributed to the engineering and development of novel paraplegic support products.
 
@@ -103,6 +106,7 @@ cv:
         position: Intern
         location: Ciudad de Mexico, MX
         start_date: 2018
+        end_date: 2018
         highlights:
           - Contributed to the design and evaluation of quantitative market analytics.
 
@@ -113,7 +117,7 @@ cv:
         position: Founding Member
         location: Ciudad de Mexico, MX
         start_date: 2020
-        end_date: ""
+        end_date: "Present"
         summary: ""
         highlights:
           - "Founded the Nuestro Futuro civil association towards environmental rights."
