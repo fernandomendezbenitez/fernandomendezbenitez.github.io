@@ -11,10 +11,10 @@ cv:
       username: fernandomendezbenitez
     - network: LinkedIn
       username: fmendezbenitez
-  
+
   sections:
     Education:
-      - institution: CQF Institute & Fitch Learning 
+      - institution: CQF Institute & Fitch Learning
         location: Londong, England
         area: Certificate in Quantitative Finance
         studyType: Certificate
