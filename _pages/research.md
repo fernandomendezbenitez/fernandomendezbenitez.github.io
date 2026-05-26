@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current Research
+title: research
 permalink: /research/
 description:
 nav: true
