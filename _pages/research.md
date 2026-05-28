@@ -1,7 +1,6 @@
 ---
 layout: page
-title: current research
-short_title: agenda
+title: agenda
 permalink: /research/
 description:
 nav: true
