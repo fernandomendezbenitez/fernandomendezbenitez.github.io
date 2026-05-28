@@ -5,7 +5,15 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
+
 ---
+
+<style>
+p {
+text-align: justify;
+}
+</style>
+
 
 ## Quantitative Research 
 
