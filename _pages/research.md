@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: agenda
 permalink: /research/
 description:
 nav: true
