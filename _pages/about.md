@@ -24,6 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+p {
+text-align: jusify;
+}
+</style>
 
 Presently an Associate in Quantitative Research at BDO UK, where I work across model development, independent validation, and the translation of quantitative research into tangible business solutions. 
 
