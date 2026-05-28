@@ -1,10 +1,15 @@
----
-layout: page
 permalink: /teaching/
 title: teaching
 description:
 nav: true
 nav_order: 6 
+
+
+---
+
+**Andersen & Buffum Parametrisation (2026)** BDO UK Quant Training 
+[PDF]
+
 ---
 **Black-Scholes via Expectation (2025)** BDO UK Quant Training 
 
@@ -12,7 +17,3 @@ Delivered brief training on fundamentals of stochastic calculus and the derivati
 
 [PDF]({{site.baseurl}}/assets/pdf/Black_Scholes_via_Expectation.pdf) 
 
----
-
-**Andersen & Buffum Parametrisation (2026)** BDO UK Quant Training 
-[PDF]
