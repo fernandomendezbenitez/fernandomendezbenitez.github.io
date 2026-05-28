@@ -9,7 +9,7 @@ nav_order: 2
 
 **Black-Karasinski Parameter Estimation under Data Scarcity** (2026)
 
-Fernando Mendez Benitez 
+*Author(s):* Fernando Méndez Benítez 
 
 *Publication:* Under Review 
 
@@ -18,7 +18,7 @@ Fernando Mendez Benitez
 
 **A Hybrid Framework for Discount for Lack of Marketability** (2025)
 
-Fernando Mendez Benitez
+*Author(s):* Fernando Méndez Benítez
 
 *Publication:* Under Review
 
@@ -26,7 +26,7 @@ Fernando Mendez Benitez
 
 **On SABR Calibration and Interpolation at Non-Tenor Dates** (2025)
 
-Fernando Mendez Benitez
+*Author(s):* Fernando Méndez Benítez
 
 *Publication:* Under Review
 
@@ -34,6 +34,6 @@ Fernando Mendez Benitez
 
 **Hidden Losses in Interrupted Markets: Evidence from the 2025 CME Trading Halt** (2025)
 
-Fernando Mendez Benitez
+*Author(s):* Fernando Méndez Benítez
 
 *Publication:* [PDF]({{site.baseurl}}/assets/pdf/CME_Outage.pdf)
