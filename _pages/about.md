@@ -26,7 +26,7 @@ latest_posts:
 
 <style>
 p {
-text-align: jusify;
+text-align: justify;
 }
 </style>
 
