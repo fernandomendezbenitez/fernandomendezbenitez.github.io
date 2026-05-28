@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: **Finance | Stochastics | Computation** 
+subtitle: <b> Finance | Stochastics | Computation </b> 
 profile:
   align: right
   image: prof_pic_light.png
