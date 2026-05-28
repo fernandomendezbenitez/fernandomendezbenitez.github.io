@@ -9,16 +9,51 @@ nav_order: 3
 
 ## academic 
 
+---
+
+**Black-Karasinski Parameter Estimation (2026)** BDO UK 
+
+---
+
+**Discount for Lack of Marketability (2025)** BDO UK
+
+---
+
+**SABR Interpolation Error (2025)** BDO UK
+
+---
+
+**Hidden Losses during the CME Trading Halt (2025)** Independent Research
+
+**Aim:** 
+
+---
+
+**Monte Carlo Scheme Study (2025)** CQF
+
+**Aim:** Derive and compare closed-form solutions and Monte Carlo simulation schemes (Euler-Maruyama and Milstein) for vanilla and exotic options
+
+**Findings:** Numerical results aligned with analytic solutions for certain plan-vanilla and binary options; Milstein diverged from Eueler-Maruyama in barrier and Asian options for certain volatility-tenor regions 
+
+**Further Research:** Investigate the numerical performance and limitations of Henderson and Wojakowski's (2001) symmetry relationship in floating vs. fixed-strike Asian options 
+
+---
+
+**Experimental Fluid Dynamics Dissertation (2022)** University of Warwick
+
+**Aim:** Visualise the effects of uneven structures on highly rotational vortex cores
+
+**Findings:** Designed methodology leveraging Particle Image Velocimetry techniques to identify the presence of inertial waves under particular setups, contributing novel findings to the field
 
 --- 
 
-## model development
+## development & automation
 
 ---
 
 **Automated Derivative Valuations Engine (2026)** BDO UK 
 
-**Aim:** Developed and productionised a fully automated derivatives valuation and risk engine
+**Aim:** Develop and productionise a fully automated derivatives valuation and risk engine
 
 **Impact:** Drastically improved team-wide efficiency, impriving project timelines and turnover, and pitch competitiveness
 
@@ -26,13 +61,16 @@ nav_order: 3
 
 **Automated Convertible Bond Risk Metrics (2026)** BDO UK
 
+**Aim:** Develop an automated system for parameter-specific risk sensitivity metrics for previously unaddressed parametres
+
+**Impact:** Launched new system, minimising model risk and improving result integrity
 
 
 ---
 
-**Black-Karasinski Parameter Estimation and Risk Automation (2026)** BDO UK
+**Black-Karasinski Automation (2026)** BDO UK
 
-**Aim:** Leveraging OU/AR(1) equivalency in stochastic credit modelling as outlined in my 2026 BK Parameter Estimation working paper towards an automated system 
+**Aim:** Leverage OU/AR(1) equivalency in stochastic credit modelling as outlined in my 2026 BK Parameter Estimation working paper towards an automated system 
 
 **Findings:** Designed and implemented an automated system sourcing Refinitiv historical credit spreads, estimating the appropriate parameters, and generating model-specific risk metrics to be used in subsequent valuations
 
