@@ -478,7 +478,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/Fernando_Mendez_Benitez_CV_Projects.pdf", "_blank");
         },
       },{
         id: 'social-email',
