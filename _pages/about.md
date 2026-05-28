@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
-
+subtitle: **Finance | Stochastics | Computation** 
 profile:
   align: right
   image: prof_pic_light.png
@@ -29,8 +28,6 @@ p {
 text-align: justify;
 }
 </style>
-
-**Finance | Stochastics | Computation**
 
 Presently a Quantitative Research Associate at BDO UK, working on the translation of quantitative research into tangible business solutions. 
 
