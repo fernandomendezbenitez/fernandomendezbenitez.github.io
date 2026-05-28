@@ -106,7 +106,7 @@ nav_order: 3
 
 **Automated Reporting System (2025)** BDO UK
 
-**Aim:** Develop a programme to automatically generate technical reports, expanding automation pipeline 
+**Aim:** Develop a system to automatically generate technical reports, expanding automation pipeline 
 
 **Impact:** Significantly improved team-wide efficiency, freeing junior member time to focus on high-complexity projects
 
