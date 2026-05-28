@@ -7,24 +7,33 @@ nav: true
 nav_order: 2
 ---
 
-**Hybrid Framework for Discount for Lack of Marketability** (2025)
-Fernando Mendez Benitez
-[SSRN] (#)
-
----
-
 **Black-Karasinski Parameter Estimation under Data Scarcity** (2026)
+
 Fernando Mendez Benitez 
-[SSRN] (#) 
+
+*Publication:* Under Review 
 
 ---
 
-*** SABR Calibration and Interpolation at Non-Tenor Dates** (2024)
+
+**A Hybrid Framework for Discount for Lack of Marketability** (2025)
+
 Fernando Mendez Benitez
-[SSRN] (#)
+
+*Publication:* Under Review
+
+---
+
+**On SABR Calibration and Interpolation at Non-Tenor Dates** (2025)
+
+Fernando Mendez Benitez
+
+*Publication:* Under Review
 
 --- 
 
-** Stochastic Modelling of Pain Chronification** (2024)
-Co-authored
-[SSRN] (#)
+**Hidden Losses in Interrupted Markets: Evidence from the 2025 CME Trading Halt** (2025)
+
+Fernando Mendez Benitez
+
+*Publication:* [PDF]({{site.baseurl}}/assets/pdf/CME_Outage.pdf)
