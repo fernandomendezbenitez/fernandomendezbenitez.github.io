@@ -79,7 +79,7 @@ text-align: justify;
 
 **Findings:** Designed methodology leveraging Particle Image Velocimetry techniques to identify the presence of inertial waves under particular setups, contributing novel findings to the field
 
---- 
+ 
 
 <br><br>
 
@@ -120,7 +120,7 @@ text-align: justify;
 
 **Impact:** Significantly improved team-wide efficiency, freeing junior member time to focus on high-complexity projects
 
----
+
 
 <br><br>
 
