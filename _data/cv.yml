@@ -4,7 +4,7 @@ cv:
   email: fernando.mendez.benitez@gmail.com
   location: City of London, GB
   image: ""
-  summary: Quantitative Finance researcher and practitioner working across statistical modelling, market and credit risk, and production-grade implementation.
+  #summary: Quantitative Finance researcher and practitioner working across statistical modelling, market and credit risk, and production-grade implementation.
   social_networks:
     - network: GitHub
       username: fernandomendezbenitez
