@@ -1,13 +1,15 @@
+---
+layout: page
 permalink: /teaching/
 title: teaching
 description:
 nav: true
 nav_order: 6 
 
-
 ---
 
 **Andersen & Buffum Parametrisation (2026)** BDO UK Quant Training 
+
 [PDF]
 
 ---
