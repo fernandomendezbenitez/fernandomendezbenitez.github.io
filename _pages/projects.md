@@ -1,13 +1,13 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: 
 nav: true
 nav_order: 3
 ---
 
-## quantitative research 
+## Quantitative Research 
 
 ---
 
@@ -73,7 +73,7 @@ nav_order: 3
 
 --- 
 
-## quantitative development 
+## Quantitative Development 
 
 ---
 
@@ -112,7 +112,7 @@ nav_order: 3
 
 ---
 
-## machine learning & systematic trading 
+## Machine Learning & Systematic Trading 
 
 ---
 
@@ -121,6 +121,8 @@ nav_order: 3
 **Aim:** Develop a machine learning system to predict asset price directionality
 
 **Findings:** Utilised SVM systems to generate a trading signal based on the implied volatility metrics across one-day-to-expiry options, displaying meaningful predictive power (Accuracy: 0.99, Macro F1: 0.97) and yielding out of sample returns 2.1 times greater than buy-and-hold 
+
+**Impact:** Illustrated the potential to exploit encoded information in the option greeks, inspiring current research agenda
 
 ---
 

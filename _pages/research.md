@@ -1,13 +1,13 @@
 ---
 layout: page
-title: current research
+title: Current Research
 permalink: /research/
 description:
 nav: true
 nav_order: 2
 ---
 
-## mathematical & computational finance
+## Mathematical & Computational Finance
 
 
 **Markets as Markov State Spaces: Greeks, Stochastic Flows, and Reinforcement Learning**
@@ -16,7 +16,7 @@ This project develops a rigorous theoretical foundation for treating financial m
 
 ---
 
-## computational neuroscience
+## Computational Neuroscience
 
 
 **Modelling Pain Chronification: A Stochastic Landau-Ginzburg Approach**
