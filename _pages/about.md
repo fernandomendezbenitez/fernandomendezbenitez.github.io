@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Stochastics & Computation
+subtitle: **Finance | Stochastics | Computation**
 
 profile:
   align: right
@@ -30,8 +30,8 @@ text-align: justify;
 }
 </style>
 
-Presently an Associate in Quantitative Research at BDO UK, where I work across model development, independent validation, and the translation of quantitative research into tangible business solutions. 
+Presently a Quantitative Research Associate at BDO UK, working on the translation of quantitative research into tangible business solutions. 
 
-My current research sits at the intersection of stochastic analysis and machine learning, with present interests including the characterisation of financial markets as Markov state spaces, the role of option Greeks as latent state variables, and the use of reinforcement learning as an approximation to optimal stochastic control. This agenda draws on Malliavin calculus, stochastic flow theory, and recent developments in neural stochastic differential equations. 
+My current research sits at the intersection of stochastics and machine learning, exploring the characterisation of financial markets as Markov state spaces, the role of option Greeks as latent state variables, and the use of reinforcement learning as an approximation to optimal stochastic control. This agenda draws from prior projects, Malliavin calculus, stochastic flow theory, and recent developments in neural stochastic differential equations. 
 
-In parallel, I am collaborating on applications of stochastic dynamical systems and reinforcement learning to computational neuroscience, with a focus on the bifurcation structure underlying pain chronification towards more informed prevention and treatment.
+In parallel, I am collaborating on applications of stochastic dynamical systems and reinforcement learning to computational neuroscience, with a focus on the structures of stability underlying pain chronification towards more informed prevention and treatment.
