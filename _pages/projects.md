@@ -81,6 +81,8 @@ text-align: justify;
 
 --- 
 
+<br><br>
+
 ## Quantitative Development 
 
 ---
@@ -119,6 +121,8 @@ text-align: justify;
 **Impact:** Significantly improved team-wide efficiency, freeing junior member time to focus on high-complexity projects
 
 ---
+
+<br><br>
 
 ## Machine Learning & Systematic Trading 
 
