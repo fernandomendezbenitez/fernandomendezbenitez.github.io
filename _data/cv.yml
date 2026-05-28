@@ -60,6 +60,16 @@ cv:
           - "Higher Level Physics - 6/7"
           - "Higher Level Economics - 6/7"
 
+      - institution:
+        location: Ciudad de Mexico, MX
+        studyType: I.G.C.S.E.
+        area: Greengates British International School
+        start_date: 2015
+        end_date: 2017
+        highlights:
+          - "Mathematics - A*"
+          - "Physics - A*"
+          - "Chemistry - A"
 
 
     Experience:
