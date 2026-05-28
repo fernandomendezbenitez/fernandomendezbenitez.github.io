@@ -7,25 +7,51 @@ nav: true
 nav_order: 3
 ---
 
-## academic 
+## quantitative research 
 
 ---
 
 **Black-Karasinski Parameter Estimation (2026)** BDO UK 
 
+**Aim:** Investigate the BK short-rate model in the context of credit default intensity, following observation of calibration difficulties arising from data scarcity and market illiquidity
+
+**Findings:** Designed a parameter estimation methodology for credit volatility and mean reversion speed based exclusively on historical credit spreads, exploiting the equivalence between Ornsetin-Uhlenbeck and first order Autoregressive processes
+
+**Publication:** Under review
+
 ---
 
-**Discount for Lack of Marketability (2025)** BDO UK
+**Discount for Lack of Marketability "DLOM" (2025)** BDO UK
+
+**Aim:** Following observation of naive treatment of illiquidity by practitioners, seek to understand core issuesEstablished DLOM models are flawed, overly stylised, or otherwise explosive, meaning practitioners are often left to rely on averages
+
+**Findings:** Formulated a 'Hybrid Put' framework encompassing full extent of downside-risk as well as some lost upside potential, without assuming perfect market-timing ability. Derived analytic approximation and evaluated numerical performance to show solution as well behaved
+
+**Publication:** Under review
 
 ---
 
 **SABR Interpolation Error (2025)** BDO UK
 
+**Aim:** Following observation of model error resulting from parameter treatment at non-tenor dates, identify and validate superior alternative
+
+**Findings:** Performed literature review and independent analysis, validating total-variance interpolation and recalibration as more accurate, consistently outperforming linear and cubic SABR parameter interpolation with RMSEs approx. 1.7 and 1.9 times higher, respectively
+
+**Impact:** Motivated further analysis and publication of systematic review and comprehensie evaluation of interpolation frameworks 
+
+**Publication:** Under review 
+
 ---
 
 **Hidden Losses during the CME Trading Halt (2025)** Independent Research
 
-**Aim:** 
+**Aim:** Following the 28 Nov 2025 CME trading outage, develop an estimation framework to quantify the hidden losses resulting from the interruption
+
+**Findings:** Developed methodology leveraging treatment of outage as a temporary illiquidity shock, identifying the optimal DLOM model by benchmarking against synthetic outages, and using the optimal model, estimating hidden losses of approximately $10 mln across NASDAQ and S&P e-mini futures
+
+**Impact:** Validated the proposed Hybrid Put Framework as best performing across synthetic outages
+
+**Publication:** Working Paper available; Shared on LinkedIn 
 
 ---
 
@@ -47,7 +73,7 @@ nav_order: 3
 
 --- 
 
-## development & automation
+## quantitative development 
 
 ---
 
