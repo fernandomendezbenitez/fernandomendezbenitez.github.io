@@ -52,3 +52,11 @@ nav_order: 2
 *Author(s):* Fernando Méndez Benítez
 
 *Publication:* [PDF]({{site.baseurl}}/assets/pdf/CME_Outage.pdf)
+
+---
+
+**Illiquidity Discounts: DLOM and the Key to Locked Assets** (2025) 
+
+*Author(s):* Fernando Méndez Benítez, Simon Greaves
+
+*Publication:* <a href="https://www.bdo.co.uk/en-gb/insights/advisory/risk-and-advisory-services/illiquidity-discounts-dlom-and-the-key-to-locked-assets" target="_blank">BDO UK</a>
