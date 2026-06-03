@@ -27,7 +27,7 @@ nav_order: 2
 
 ---
 
-**A Hybrid Framework for Discount for Lack of Marketability** (2025)
+**A Hybrid Framework for the Discount for Lack of Marketability** (2025)
 
 *Author(s):* Fernando Méndez Benítez
 
