@@ -51,7 +51,7 @@ nav_order: 2
 
 *Author(s):* Fernando Méndez Benítez
 
-*Publication:* [PDF]({{site.baseurl}}/assets/pdf/CME_Outage.pdf)
+*Publication:* <a href="https://www.linkedin.com/posts/fmendezbenitez_hidden-losses-in-interrupted-markets-the-ugcPost-7403751218067587072-j_3f/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC5WUHsB_VT_T0kR0KVKH7Baj34vEtaKuy0" target="_blank">LinkedIn Post</a>, [Full Text]({{site.baseurl}}/assets/pdf/CME_Outage.pdf)
 
 ---
 
