@@ -11,7 +11,7 @@ nav_order: 2
 
 ---
 
-**On the Robust Parametrisation of Black-Karasinski under Data Scarcity: An Empirical Application of Allan-Cohen (2019)** 
+**On the Robust Parametrisation of Black-Karasinski under Data Scarcity: An Empirical Application of Allan-Cohen (2019)** (2026)
 
 *Author(s)*: Fernando Méndez Benítez
 
