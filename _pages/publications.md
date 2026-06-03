@@ -7,6 +7,9 @@ nav: true
 nav_order: 2
 ---
 
+## Preprints
+
+---
 **Black-Karasinski Parameter Estimation under Data Scarcity** (2026)
 
 *Author(s):* Fernando Méndez Benítez 
@@ -29,6 +32,10 @@ nav_order: 2
 *Author(s):* Fernando Méndez Benítez
 
 *Publication:* Under Review
+
+---
+
+## Articles
 
 --- 
 
