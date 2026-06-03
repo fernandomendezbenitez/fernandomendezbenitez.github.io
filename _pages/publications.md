@@ -10,14 +10,22 @@ nav_order: 2
 ## Preprints
 
 ---
-**Black-Karasinski Parameter Estimation under Data Scarcity** (2026)
+
+**On the Robust Parametrisation of Black-Karasinski under Data Scarcity: An Empirical Application of Allan-Cohen (2019)** 
+
+*Author(s)*: Fernando Méndez Benítez
+
+*Publication:* Under Review
+
+---
+
+**A Parameter Estimation Framework for the Black-Karasinski Credit Spread Model under Data Scarcity** (2026)
 
 *Author(s):* Fernando Méndez Benítez 
 
 *Publication:* Under Review 
 
 ---
-
 
 **A Hybrid Framework for Discount for Lack of Marketability** (2025)
 
