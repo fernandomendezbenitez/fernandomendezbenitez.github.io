@@ -8,6 +8,14 @@ nav_order: 6
 
 ---
 
+**Black-Scholes Asymptotes (2026)** BDO UK Quant Training 
+
+Delivered internal stochastic calculus training demonstrating that the value of a call option is capped at the price of its underlying asset, even as time-to-maturity, moneyness, and implied volatility approach infinity.
+
+[PDF]({{site.baseurl}}/assets/pdf/BS_Asymptote.pdf)
+
+---
+
 **Andersen & Buffum Parametrisation (2026)** BDO UK Quant Training 
 
 Authored a technical paper distributed for internal education, analysing convertible bond behaviour across inputs and parameters, offering greater intuition to team members.
