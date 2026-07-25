@@ -39,10 +39,10 @@ My current research spans:
 
 - **Artefacts Rough & Lawless**: coupling an orthonormal multiscale decomposition with a pathwise variational filter to recover the roughness exponent of a latent volatility path from its noisy observations
 
-- **Steering Stochastic Flows**: casting the market as a Markov system whose latent coordinates are the option Greeks, realised through Kunita's stochastic flows and Malliavin integration-by-parts weights, towards applications in optimal control
+- **Steering with Stochastic Flows**: casting the market as a Markov system whose latent coordinates are the option Greeks, realised through Kunita's stochastic flows and Malliavin integration-by-parts weights, towards applications in optimal control
 
 
-In parallel collaboration with *Caitlyn Mary Dyster [MSc Candidate, University of Oxford].*
+In parallel collaboration with *Caitlyn Mary Dyster [MSc Candidate, University of Oxford]*:
 
 - **A Stochastic Landau-Ginzburg Approach to Chronification**: applying stochastic dynamical systems and reinforcement learning to computational neuroscience, with a focus on the structures of stability underlying pain chronification towards more informed prevention and treatment
 
