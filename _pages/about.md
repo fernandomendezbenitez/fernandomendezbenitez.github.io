@@ -29,7 +29,7 @@ text-align: justify;
 }
 </style>
 
-Presently a Quantitative Research Associate, where I leverage mathematical rigour together with client-facing experience, to produce meaningful results and do justice to why they matter.
+Presently a Quantitative Researcher, I leverage mathematical rigour together with client-facing experience to produce meaningful results and do justice to why they matter.
 
 My current research spans: 
 
