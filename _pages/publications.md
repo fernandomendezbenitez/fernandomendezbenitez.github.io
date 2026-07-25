@@ -11,35 +11,27 @@ nav_order: 2
 
 ---
 
-**On the Robust Parametrisation of Black-Karasinski under Data Scarcity: An Empirical Application of Allan-Cohen (2019)** (2026)
-
-*Author(s)*: Fernando Méndez Benítez
-
-*Publication:* Under Review
-
----
-
-**A Parameter Estimation Framework for the Black-Karasinski Credit Spread Model under Data Scarcity** (2026)
+**Having Backbone: Regime Dependence in SABR Tenor Interpolation** (2026)
 
 *Author(s):* Fernando Méndez Benítez 
 
-*Publication:* Under Review 
+*Publication:* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7051858" target="_blank">SSRN</a>
 
 ---
 
-**A Hybrid Framework for the Discount for Lack of Marketability** (2025)
+**A Hybrid Framework for the Discount for Lack of Marketability** (2026)
 
 *Author(s):* Fernando Méndez Benítez
 
-*Publication:* Under Review
+*Publication:* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7037338" target="_blank">SSRN</a>
 
 ---
 
-**On SABR Calibration and Interpolation at Non-Tenor Dates** (2025)
+**On Parameter Estimation for the Black-Karasinski Credit Spread Model under Data Scarcity** (2026)
 
 *Author(s):* Fernando Méndez Benítez
 
-*Publication:* Under Review
+*Publication:* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6898961" target="_blank">SSRN</a>
 
 ---
 
